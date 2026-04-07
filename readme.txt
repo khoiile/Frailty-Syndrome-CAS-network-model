@@ -55,7 +55,7 @@ Dataset is stored in dataset/frailty_dataset.csv
 
 
 OUTPUTS:
-Outputs are stored in outputs/
+Outputs are stored in src/outputs/
 
     *Network model*
     network structure:      network_structure.png

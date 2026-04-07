@@ -15,14 +15,14 @@ An anaconda virtual environment is recommended.
 
 STEP 1: ENVIRONMENT SETUP
 
-    conda create -n demo_test python=3.10.19
+    conda create -n demo_test python=3.11.11
     conda activate demo_test
 
 STEP 2: DEPENDENCIES INSTALLATION
 
     pip install -r requirements.txt
 
-STEP 3: PYTHON VERSION VERIFICATION   # Expected output: Python 3.10.19
+STEP 3: PYTHON VERSION VERIFICATION   # Expected output: Python 3.11.11
 
     python --version 
 
